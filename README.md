@@ -4,6 +4,8 @@
 
 This tutorial uses beluga whale occurrence records from the Global Biodiversity Information Facility https://www.gbif.org/ and a subset of beluga population records from the Living Planet Index Database, publicly available from http://www.livingplanetindex.org/home/index.
 
+Check out https://ourcodingclub.github.io/workshop/ to learn how you can get involved!
+
 We would love to hear your feedback on the tutorial, whether you did it at a Coding Club workshop or online: 
 https://www.surveymonkey.com/r/JYDDZ8F
 
